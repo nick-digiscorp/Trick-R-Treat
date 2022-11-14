@@ -1,0 +1,5 @@
+2022/11/13-18:41:52.006 45c8 Reusing MANIFEST C:/Users/Owner/Documents/Unreal Projects/TrickrTreat/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/13-18:46:35.759 71ec Level-0 table #5: started
+2022/11/13-18:46:35.770 71ec Level-0 table #5: 6869 bytes OK
+2022/11/13-18:46:35.772 71ec Delete type=0 #3
+2022/11/13-18:46:35.772 71ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
